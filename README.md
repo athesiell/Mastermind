@@ -2,6 +2,8 @@
 
 This project is a game where you have to guess your opponent’s secret code within a certain number of turns.
 
+Try it live here: https://replit.com/@darkstyle221/Mastermind#main.rb
+
 Features:
 
 Player begins the game by choosing either CODEBREAKER or CODEMAKER.
